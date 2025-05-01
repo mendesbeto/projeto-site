@@ -2,7 +2,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { Card, CardContent } from '@/components/ui/card';
 
-export default function Dúvidas() {
+export default function Duvidas() {
   return (
     <>
       <Header />
